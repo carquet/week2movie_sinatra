@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'rspec'
+gem 'rack'
+gem 'rack-test'
+gem 'pry'
+gem 'guard'
+gem 'guard-rspec'
+gem 'imdb', '~> 0.8'
